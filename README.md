@@ -1,9 +1,9 @@
 ### Ola, eu sou a Carla 🌹
  Buscando levar um pouco o mundo da biologia para a tecnologia.  🌱
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacgodoy&show_icons=true&theme=cobalt)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlacgodoy&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacgodoy&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacgodoy&hide_progress=true&theme=synthwave)
 
 <div> 
   <a href="[(https://www.instagram.com/carlsgodoy/?igshid=MzRlODBiNWFlZA%3D%3D)]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

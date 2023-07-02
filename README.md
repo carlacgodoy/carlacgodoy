@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacgodoy&hide_progress=true&theme=dracula)
 
 <div style = "display: inline_block"><br>
- <img align"right" alt="Carla-gif" src= "https://www.canva.com/design/DAFnd70Si_k/i6cuKM8SI3cmAnLhzhk51A/editutm_content=DAFnd70Si_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+ <img align"right" alt="Carla-gif" src= "https://i.picasion.com/pic92/b914ff9f633059ec050f3436f8713ced.gif">
 </div>
 <div> 
   <a href="[(https://www.instagram.com/carlsgodoy/?igshid=MzRlODBiNWFlZA%3D%3D)]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
